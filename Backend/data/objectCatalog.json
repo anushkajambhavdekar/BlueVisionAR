@@ -1,0 +1,79 @@
+[
+  {
+    "id": "chair",
+    "label": "Wooden Chair",
+    "modelUrl": "https://modelviewer.dev/assets/ShopifyModels/Chair.glb",
+    "aliases": ["chair", "wooden chair", "office chair", "dining chair", "wooden seat", "furniture chair"],
+    "description": "A wooden chair for seating in a room, office, dining area, classroom, or furniture scene."
+  },
+  {
+    "id": "astronaut",
+    "label": "Astronaut",
+    "modelUrl": "https://modelviewer.dev/shared-assets/models/Astronaut.glb",
+    "aliases": ["astronaut", "space suit", "spacesuit", "space man", "space explorer", "person in space suit"],
+    "description": "A human space explorer wearing a white astronaut suit, helmet, boots, and life support pack."
+  },
+  {
+    "id": "robot",
+    "label": "Robot",
+    "modelUrl": "https://modelviewer.dev/shared-assets/models/RobotExpressive.glb",
+    "aliases": ["robot", "android", "humanoid robot", "bot", "machine person"],
+    "description": "A friendly humanoid robot or android with mechanical body parts for technology scenes."
+  },
+  {
+  "id": "laptop",
+  "label": "Laptop",
+  "modelUrl": "https://modelviewer.dev/assets/ShopifyModels/Laptop.glb",
+  "aliases": ["laptop", "computer", "notebook", "pc", "personal computer", "macbook"],
+  "description": "A sleek, modern laptop computer with a keyboard and screen, ideal for office, study, workspace, or technology scenes."
+},
+  {
+    "id": "horse",
+    "label": "Horse",
+    "modelUrl": "https://modelviewer.dev/shared-assets/models/Horse.glb",
+    "aliases": ["horse", "stallion", "pony", "farm horse", "riding animal"],
+    "description": "A four legged horse animal, useful for farm, riding, stable, race, or outdoor scenes."
+  },
+  {
+    "id": "helmet",
+    "label": "Helmet",
+    "modelUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/DamagedHelmet/glTF-Binary/DamagedHelmet.glb",
+    "aliases": ["helmet", "damaged helmet", "biker helmet", "motorcycle helmet", "sci fi helmet", "helmate", "helment"],
+    "description": "A protective sci fi or motorcycle style helmet with worn metal details."
+  },
+  {
+    "id": "train",
+    "label": "Toy Train",
+    "modelUrl": "https://modelviewer.dev/assets/ShopifyModels/ToyTrain.glb",
+    "aliases": ["toy train", "train", "locomotive", "railway toy", "kids train"],
+    "description": "A toy train or small locomotive for railway, kids toy, transport, or playroom scenes."
+  },
+  {
+    "id": "planter",
+    "label": "Planter",
+    "modelUrl": "https://modelviewer.dev/assets/ShopifyModels/GeoPlanter.glb",
+    "aliases": ["planter", "plant pot", "flower pot", "pot", "indoor plant pot"],
+    "description": "A geometric planter or plant pot for flowers, indoor plants, garden, balcony, or home decor."
+  },
+  {
+    "id": "boombox",
+    "label": "Boombox",
+    "modelUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/BoomBox/glTF-Binary/BoomBox.glb",
+    "aliases": ["boombox", "speaker", "music player", "radio", "stereo", "portable music speaker"],
+    "description": "A portable music speaker or stereo radio with handles and audio controls."
+  },
+  {
+    "id": "avocado",
+    "label": "Avocado",
+    "modelUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Avocado/glTF-Binary/Avocado.glb",
+    "aliases": ["avocado", "fruit", "food", "green fruit", "sliced avocado"],
+    "description": "A sliced avocado fruit with green flesh and seed, useful for food or kitchen scenes."
+  },
+  {
+    "id": "lantern",
+    "label": "Lantern",
+    "modelUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Lantern/glTF-Binary/Lantern.glb",
+    "aliases": ["lantern", "lamp", "light", "hanging lamp", "camping light"],
+    "description": "A decorative lantern or lamp that represents lighting for rooms, camping, or night scenes."
+  }
+]
